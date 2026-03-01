@@ -37,15 +37,6 @@ Such predictive systems can assist in early screening and informed healthcare de
 
 ---
 
-## 📂 Project Structure
----
-
-
--Diabetes-Prediction/
--│
--├── Diabetes_Prediction.ipynb
--├── diabetes.csv (dataset)
--└── README.md
 
 
 
